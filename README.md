@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-01 02:04:17
+最后更新时间 2023-01-01 03:01:26
 
 1. [新年快乐](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&t=31&band_rank=1&Refer=top) 9872835
 1. [赵露思腮红谁打的](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%85%AE%E7%BA%A2%E8%B0%81%E6%89%93%E7%9A%84&t=31&band_rank=2&Refer=top) 7191844
@@ -83,6 +83,7 @@
 1. [王俊凯台风](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%B0%E9%A3%8E&t=31&band_rank=41&Refer=top) 835230
 1. [李宇春第18年跨年零点秀](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%AC%AC18%E5%B9%B4%E8%B7%A8%E5%B9%B4%E9%9B%B6%E7%82%B9%E7%A7%80%23&t=31&band_rank=42&Refer=top) 773631
 1. [你好2023](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD2023%23&t=31&band_rank=44&Refer=top) 761658
+1. [鞠婧祎发型师在干嘛](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8F%91%E5%9E%8B%E5%B8%88%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=5&Refer=top) 755410
 1. [用家乡方言打开2023](https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%AE%B6%E4%B9%A1%E6%96%B9%E8%A8%80%E6%89%93%E5%BC%802023%23&t=31&band_rank=47&Refer=top) 723254
 1. [我的新年祝福文案](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F%E6%96%87%E6%A1%88%23&t=31&band_rank=50&Refer=top) 696958
 1. [上海武警拉链式人墙跨年夜再上岗](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%AD%A6%E8%AD%A6%E6%8B%89%E9%93%BE%E5%BC%8F%E4%BA%BA%E5%A2%99%E8%B7%A8%E5%B9%B4%E5%A4%9C%E5%86%8D%E4%B8%8A%E5%B2%97%23&t=31&band_rank=15&Refer=top) 563806
@@ -93,6 +94,7 @@
 1. [程潇 假唱](https://s.weibo.com/weibo?q=%E7%A8%8B%E6%BD%87%20%E5%81%87%E5%94%B1&t=31&band_rank=35&Refer=top) 540130
 1. [尼格买提说00后比80后更爱穿秋裤](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B400%E5%90%8E%E6%AF%9480%E5%90%8E%E6%9B%B4%E7%88%B1%E7%A9%BF%E7%A7%8B%E8%A3%A4%23&t=31&band_rank=38&Refer=top) 531585
 1. [关晓彤 改妆](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E6%94%B9%E5%A6%86&t=31&band_rank=41&Refer=top) 524290
+1. [外滩保安喇叭提醒路边导游不可信](https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%BB%A9%E4%BF%9D%E5%AE%89%E5%96%87%E5%8F%AD%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E5%AF%BC%E6%B8%B8%E4%B8%8D%E5%8F%AF%E4%BF%A1%23&t=31&band_rank=36&Refer=top) 216268
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
