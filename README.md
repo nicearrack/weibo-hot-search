@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-02 04:02:43
+最后更新时间 2023-01-02 05:02:55
 
 1. [官方回应郑州CBD燃放烟花](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%83%91%E5%B7%9ECBD%E7%87%83%E6%94%BE%E7%83%9F%E8%8A%B1%23&t=31&band_rank=1&Refer=top) 1080250
 1. [法外狂徒烟花版](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%A4%96%E7%8B%82%E5%BE%92%E7%83%9F%E8%8A%B1%E7%89%88%23&t=31&band_rank=2&Refer=top) 990731
