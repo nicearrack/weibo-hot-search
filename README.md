@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-14 01:02:17
+最后更新时间 2023-01-14 03:01:57
 
 1. [榜一大哥奔现遭拒起诉主播欺诈](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E5%A5%94%E7%8E%B0%E9%81%AD%E6%8B%92%E8%B5%B7%E8%AF%89%E4%B8%BB%E6%92%AD%E6%AC%BA%E8%AF%88%23&t=31&band_rank=23&Refer=top) 1096580
 1. [省教育厅回应女生宿舍上铺坠亡](https://s.weibo.com/weibo?q=%23%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%B8%8A%E9%93%BA%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1034878
@@ -37,6 +37,7 @@
 1. [刘心悠承认已婚](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BF%83%E6%82%A0%E6%89%BF%E8%AE%A4%E5%B7%B2%E5%A9%9A%23&t=31&band_rank=14&Refer=top) 395471
 1. [原神 归终](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%20%E5%BD%92%E7%BB%88&t=31&band_rank=15&Refer=top) 374009
 1. [顾客吃串为少付钱藏桌底200根签子](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%83%E4%B8%B2%E4%B8%BA%E5%B0%91%E4%BB%98%E9%92%B1%E8%97%8F%E6%A1%8C%E5%BA%95200%E6%A0%B9%E7%AD%BE%E5%AD%90%23&t=31&band_rank=16&Refer=top) 373323
+1. [日本近1个月新冠死亡人数飙升](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%911%E4%B8%AA%E6%9C%88%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E9%A3%99%E5%8D%87%23&t=31&band_rank=1&Refer=top) 343107
 1. [男孩1天喝6瓶饮料父亲一次灌饱](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A91%E5%A4%A9%E5%96%9D6%E7%93%B6%E9%A5%AE%E6%96%99%E7%88%B6%E4%BA%B2%E4%B8%80%E6%AC%A1%E7%81%8C%E9%A5%B1%23&t=31&band_rank=17&Refer=top) 317431
 1. [女子误把二哈当狼哭着报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AF%AF%E6%8A%8A%E4%BA%8C%E5%93%88%E5%BD%93%E7%8B%BC%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=18&Refer=top) 272779
 1. [女生第1次去男友家洗碗手冻通红](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%AC%AC1%E6%AC%A1%E5%8E%BB%E7%94%B7%E5%8F%8B%E5%AE%B6%E6%B4%97%E7%A2%97%E6%89%8B%E5%86%BB%E9%80%9A%E7%BA%A2%23&t=31&band_rank=19&Refer=top) 252818
@@ -76,6 +77,12 @@
 1. [水哥王昱珩希望杨英豪再拿第一](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%93%A5%E7%8E%8B%E6%98%B1%E7%8F%A9%E5%B8%8C%E6%9C%9B%E6%9D%A8%E8%8B%B1%E8%B1%AA%E5%86%8D%E6%8B%BF%E7%AC%AC%E4%B8%80%23&t=31&band_rank=41&Refer=top) 135556
 1. [苏州新年氛围感有多浓](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%B9%B4%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%9C%89%E5%A4%9A%E6%B5%93%23&t=31&band_rank=48&Refer=top) 134963
 1. [手艺人做的翻糖](https://s.weibo.com/weibo?q=%E6%89%8B%E8%89%BA%E4%BA%BA%E5%81%9A%E7%9A%84%E7%BF%BB%E7%B3%96&t=31&band_rank=49&Refer=top) 134895
+1. [XBB等变异株会再引发感染高峰吗](https://s.weibo.com/weibo?q=%23XBB%E7%AD%89%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BC%9A%E5%86%8D%E5%BC%95%E5%8F%91%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E5%90%97%23&t=31&band_rank=12&Refer=top) 101905
+1. [九义人杀青](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B9%89%E4%BA%BA%E6%9D%80%E9%9D%92%23&t=31&band_rank=21&Refer=top) 58164
+1. [娶到心爱的女孩笑容是藏不住的](https://s.weibo.com/weibo?q=%23%E5%A8%B6%E5%88%B0%E5%BF%83%E7%88%B1%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%AC%91%E5%AE%B9%E6%98%AF%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%23&t=31&band_rank=24&Refer=top) 57463
+1. [女子展示神操作橘子复原术](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B1%95%E7%A4%BA%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%A9%98%E5%AD%90%E5%A4%8D%E5%8E%9F%E6%9C%AF%23&t=31&band_rank=29&Refer=top) 35321
+1. [朴宰范HoshiDino舞蹈挑战](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83HoshiDino%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%23&t=31&band_rank=31&Refer=top) 32647
+1. [胡夏从那些年唱到这些人](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E4%BB%8E%E9%82%A3%E4%BA%9B%E5%B9%B4%E5%94%B1%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 29773
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
