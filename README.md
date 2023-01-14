@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-15 05:01:53
+最后更新时间 2023-01-15 06:01:49
 
 1. [张新成 受伤](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%20%E5%8F%97%E4%BC%A4&t=31&band_rank=1&Refer=top) 2025799
 1. [广州撞人致5死司机被批捕](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%92%9E%E4%BA%BA%E8%87%B45%E6%AD%BB%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%89%B9%E6%8D%95%23&t=31&band_rank=2&Refer=top) 1111775
