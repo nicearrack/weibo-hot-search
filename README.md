@@ -17,39 +17,54 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-21 22:02:04
+最后更新时间 2023-01-21 23:02:21
 
+1. [沈腾吃药](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E5%90%83%E8%8D%AF&t=31&band_rank=1&Refer=top) 14768575
 1. [邓超笑死我了](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86&t=31&band_rank=1&Refer=top) 14061774
 1. [春晚舞台](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0&t=31&band_rank=5&Refer=top) 12359021
+1. [沈腾马丽 一出来就笑](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%20%E4%B8%80%E5%87%BA%E6%9D%A5%E5%B0%B1%E7%AC%91&t=31&band_rank=22&Refer=top) 12091804
 1. [岳云鹏变烧鸡](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%8F%98%E7%83%A7%E9%B8%A1%23&t=31&band_rank=2&Refer=top) 9547494
+1. [是谁在唱歌 for you](https://s.weibo.com/weibo?q=%E6%98%AF%E8%B0%81%E5%9C%A8%E5%94%B1%E6%AD%8C%20for%20you&t=31&band_rank=43&Refer=top) 8942191
+1. [赵丽颖真可爱](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9C%9F%E5%8F%AF%E7%88%B1&t=31&band_rank=13&Refer=top) 8338206
+1. [谢谢沈腾马丽](https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B0%A2%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD&t=31&band_rank=7&Refer=top) 8115344
 1. [春晚](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%23&t=31&band_rank=1&Refer=top) 7869356
 1. [张若昀好帅](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%A5%BD%E5%B8%85%23&t=31&band_rank=6&Refer=top) 6709846
 1. [新时代 我在中国](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 5964718
+1. [唐诗逸好美](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%97%E9%80%B8%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=8&Refer=top) 5354734
 1. [朱洁静不愧是首席](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%B4%81%E9%9D%99%E4%B8%8D%E6%84%A7%E6%98%AF%E9%A6%96%E5%B8%AD%23&t=31&band_rank=5&Refer=top) 5342270
+1. [五福开奖](https://s.weibo.com/weibo?q=%23%E4%BA%94%E7%A6%8F%E5%BC%80%E5%A5%96%23&t=31&band_rank=9&Refer=top) 5053546
+1. [微博红包](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BA%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top) 5014436
+1. [马丽 羽绒服满天飞毛](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%20%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%BB%A1%E5%A4%A9%E9%A3%9E%E6%AF%9B&t=31&band_rank=11&Refer=top) 5013466
 1. [撒贝宁和苏有朋谁的鞋跟高](https://s.weibo.com/weibo?q=%E6%92%92%E8%B4%9D%E5%AE%81%E5%92%8C%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%B0%81%E7%9A%84%E9%9E%8B%E8%B7%9F%E9%AB%98&t=31&band_rank=6&Refer=top) 4954761
-1. [微博红包](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BA%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top) 4735698
 1. [脱口秀尴尬](https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E5%B0%B4%E5%B0%AC&t=31&band_rank=7&Refer=top) 4644099
 1. [动如脱兔的邓超](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E5%A6%82%E8%84%B1%E5%85%94%E7%9A%84%E9%82%93%E8%B6%85%23&t=31&band_rank=8&Refer=top) 4578588
 1. [春晚节目单](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=1&Refer=top) 4163462
 1. [红包封面](https://s.weibo.com/weibo?q=%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2&t=31&band_rank=7&Refer=top) 3839836
 1. [宋祖儿宋轶好美](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%AE%8B%E8%BD%B6%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=11&Refer=top) 3691467
 1. [苏有朋太年轻了吧](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%9C%89%E6%9C%8B%E5%A4%AA%E5%B9%B4%E8%BD%BB%E4%BA%86%E5%90%A7&t=31&band_rank=8&Refer=top) 3589578
+1. [黄渤又上跑步机](https://s.weibo.com/weibo?q=%E9%BB%84%E6%B8%A4%E5%8F%88%E4%B8%8A%E8%B7%91%E6%AD%A5%E6%9C%BA&t=31&band_rank=15&Refer=top) 3312985
 1. [兔子](https://s.weibo.com/weibo?q=%E5%85%94%E5%AD%90&t=31&band_rank=24&Refer=top) 3210847
 1. [孙越的捧哏不如一只烧鸡](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%B6%8A%E7%9A%84%E6%8D%A7%E5%93%8F%E4%B8%8D%E5%A6%82%E4%B8%80%E5%8F%AA%E7%83%A7%E9%B8%A1%23&t=31&band_rank=12&Refer=top) 3131353
 1. [朱洁静 牛哇](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%B4%81%E9%9D%99%20%E7%89%9B%E5%93%87&t=31&band_rank=11&Refer=top) 2836437
-1. [赵丽颖真可爱](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9C%9F%E5%8F%AF%E7%88%B1&t=31&band_rank=13&Refer=top) 2814718
 1. [微电影](https://s.weibo.com/weibo?q=%E5%BE%AE%E7%94%B5%E5%BD%B1&t=31&band_rank=13&Refer=top) 2680578
+1. [刘星姥姥和三大爷](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%9F%E5%A7%A5%E5%A7%A5%E5%92%8C%E4%B8%89%E5%A4%A7%E7%88%B7%23&t=31&band_rank=17&Refer=top) 2672567
 1. [我和我的春晚 全场最佳](https://s.weibo.com/weibo?q=%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E6%98%A5%E6%99%9A%20%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3&t=31&band_rank=14&Refer=top) 2580524
 1. [寻找春晚彩蛋](https://s.weibo.com/weibo?q=%23%E5%AF%BB%E6%89%BE%E6%98%A5%E6%99%9A%E5%BD%A9%E8%9B%8B%23&t=31&band_rank=15&Refer=top) 2544604
 1. [王俊凯王源易烊千玺TF家族官网新春VCR](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BATF%E5%AE%B6%E6%97%8F%E5%AE%98%E7%BD%91%E6%96%B0%E6%98%A5VCR%23&t=31&band_rank=2&Refer=top) 2292937
+1. [烟花](https://s.weibo.com/weibo?q=%E7%83%9F%E8%8A%B1&t=31&band_rank=9&Refer=top) 2202132
+1. [赵丽颖端庄大气](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AB%AF%E5%BA%84%E5%A4%A7%E6%B0%94&t=31&band_rank=21&Refer=top) 2198522
+1. [周深改词版花开忘忧更温暖](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%94%B9%E8%AF%8D%E7%89%88%E8%8A%B1%E5%BC%80%E5%BF%98%E5%BF%A7%E6%9B%B4%E6%B8%A9%E6%9A%96&t=31&band_rank=22&Refer=top) 2121242
 1. [陈哲远发红包](https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85&t=31&band_rank=4&Refer=top) 1795169
 1. [春晚几点](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%87%A0%E7%82%B9&t=31&band_rank=46&Refer=top) 1781711
+1. [王铮亮的暗号](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%93%AE%E4%BA%AE%E7%9A%84%E6%9A%97%E5%8F%B7&t=31&band_rank=21&Refer=top) 1735816
 1. [虚岁最大受害者](https://s.weibo.com/weibo?q=%23%E8%99%9A%E5%B2%81%E6%9C%80%E5%A4%A7%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=28&Refer=top) 1571224
 1. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=40&Refer=top) 1537436
+1. [杨紫红色大衣](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BA%A2%E8%89%B2%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=47&Refer=top) 1389058
 1. [红包](https://s.weibo.com/weibo?q=%E7%BA%A2%E5%8C%85&t=31&band_rank=19&Refer=top) 1266197
 1. [央视镜头下的明星](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=7&Refer=top) 1155414
 1. [王鹤棣说浴桶吻小孩别看](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AF%B4%E6%B5%B4%E6%A1%B6%E5%90%BB%E5%B0%8F%E5%AD%A9%E5%88%AB%E7%9C%8B%23&t=31&band_rank=2&Refer=top) 1128206
 1. [网友吃席偶遇幼年版白敬亭](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%83%E5%B8%AD%E5%81%B6%E9%81%87%E5%B9%BC%E5%B9%B4%E7%89%88%E7%99%BD%E6%95%AC%E4%BA%AD%23&t=31&band_rank=1&Refer=top) 1125416
+1. [王宝强台词](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=26&Refer=top) 1103674
 1. [拜年短信](https://s.weibo.com/weibo?q=%E6%8B%9C%E5%B9%B4%E7%9F%AD%E4%BF%A1&t=31&band_rank=43&Refer=top) 1091884
 1. [张若昀吃烧鸡的样子很帅](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%90%83%E7%83%A7%E9%B8%A1%E7%9A%84%E6%A0%B7%E5%AD%90%E5%BE%88%E5%B8%85&t=31&band_rank=15&Refer=top) 1016942
 1. [岳云鹏 老梗](https://s.weibo.com/weibo?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%20%E8%80%81%E6%A2%97&t=31&band_rank=16&Refer=top) 1015356
@@ -60,10 +75,7 @@
 1. [沈腾 是吧](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E6%98%AF%E5%90%A7&t=31&band_rank=5&Refer=top) 911734
 1. [云南大理官方给去有风的地方剧组感谢信](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E5%AE%98%E6%96%B9%E7%BB%99%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E5%89%A7%E7%BB%84%E6%84%9F%E8%B0%A2%E4%BF%A1%23&t=31&band_rank=5&Refer=top) 876952
 1. [爱奇艺](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA&t=31&band_rank=6&Refer=top) 873982
-1. [烟花](https://s.weibo.com/weibo?q=%E7%83%9F%E8%8A%B1&t=31&band_rank=9&Refer=top) 859854
 1. [利物浦vs切尔西](https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%88%87%E5%B0%94%E8%A5%BF%23&t=31&band_rank=38&Refer=top) 859768
-1. [王铮亮的暗号](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%93%AE%E4%BA%AE%E7%9A%84%E6%9A%97%E5%8F%B7&t=31&band_rank=21&Refer=top) 859658
-1. [沈腾马丽 一出来就笑](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%20%E4%B8%80%E5%87%BA%E6%9D%A5%E5%B0%B1%E7%AC%91&t=31&band_rank=22&Refer=top) 859593
 1. [谢谢毛不易](https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B0%A2%E6%AF%9B%E4%B8%8D%E6%98%93&t=31&band_rank=23&Refer=top) 859468
 1. [兔年第一只小兔子](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%8F%AA%E5%B0%8F%E5%85%94%E5%AD%90%23&t=31&band_rank=26&Refer=top) 859335
 1. [朱洁静太美了吧](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%B4%81%E9%9D%99%E5%A4%AA%E7%BE%8E%E4%BA%86%E5%90%A7%23&t=31&band_rank=25&Refer=top) 859302
@@ -80,14 +92,12 @@
 1. [女子过年赖床不起爸爸情绪逐渐失控](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%B9%B4%E8%B5%96%E5%BA%8A%E4%B8%8D%E8%B5%B7%E7%88%B8%E7%88%B8%E6%83%85%E7%BB%AA%E9%80%90%E6%B8%90%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=19&Refer=top) 857908
 1. [碇步桥](https://s.weibo.com/weibo?q=%23%E7%A2%87%E6%AD%A5%E6%A1%A5%23&t=31&band_rank=41&Refer=top) 857821
 1. [宋祖儿两套造型反差感](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E4%B8%A4%E5%A5%97%E9%80%A0%E5%9E%8B%E5%8F%8D%E5%B7%AE%E6%84%9F%23&t=31&band_rank=42&Refer=top) 857702
-1. [是谁在唱歌 for you](https://s.weibo.com/weibo?q=%E6%98%AF%E8%B0%81%E5%9C%A8%E5%94%B1%E6%AD%8C%20for%20you&t=31&band_rank=43&Refer=top) 857675
 1. [春节前疫情热点十问十答](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%8D%E7%96%AB%E6%83%85%E7%83%AD%E7%82%B9%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94%23&t=31&band_rank=3&Refer=top) 854188
 1. [天津天塔光影秀又双叒叕有了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A9%E5%A1%94%E5%85%89%E5%BD%B1%E7%A7%80%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E6%9C%89%E4%BA%86%23&t=31&band_rank=44&Refer=top) 848549
 1. [岳云鹏没有邓超好笑](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%B2%A1%E6%9C%89%E9%82%93%E8%B6%85%E5%A5%BD%E7%AC%91%23&t=31&band_rank=45&Refer=top) 846537
 1. [妈妈用万元韩币换女儿一沓百元大钞](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E4%B8%87%E5%85%83%E9%9F%A9%E5%B8%81%E6%8D%A2%E5%A5%B3%E5%84%BF%E4%B8%80%E6%B2%93%E7%99%BE%E5%85%83%E5%A4%A7%E9%92%9E%23&t=31&band_rank=2&Refer=top) 841223
 1. [孙茜一边化妆一边吃春晚盒饭](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8C%9C%E4%B8%80%E8%BE%B9%E5%8C%96%E5%A6%86%E4%B8%80%E8%BE%B9%E5%90%83%E6%98%A5%E6%99%9A%E7%9B%92%E9%A5%AD%23&t=31&band_rank=7&Refer=top) 808087
 1. [易烊千玺被彩带吓到的反应](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A2%AB%E5%BD%A9%E5%B8%A6%E5%90%93%E5%88%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top) 804007
-1. [杨紫红色大衣](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BA%A2%E8%89%B2%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=47&Refer=top) 780458
 1. [又到了潮汕人最害怕的环节](https://s.weibo.com/weibo?q=%23%E5%8F%88%E5%88%B0%E4%BA%86%E6%BD%AE%E6%B1%95%E4%BA%BA%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E7%8E%AF%E8%8A%82%23&t=31&band_rank=14&Refer=top) 757082
 1. [康辉郑丽拜年](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E8%BE%89%E9%83%91%E4%B8%BD%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=35&Refer=top) 746943
 1. [爷奶给12个孙子女发红包每人5000多](https://s.weibo.com/weibo?q=%23%E7%88%B7%E5%A5%B6%E7%BB%9912%E4%B8%AA%E5%AD%99%E5%AD%90%E5%A5%B3%E5%8F%91%E7%BA%A2%E5%8C%85%E6%AF%8F%E4%BA%BA5000%E5%A4%9A%23&t=31&band_rank=4&Refer=top) 746102
@@ -137,6 +147,12 @@
 1. [63位家人给90岁老人磕头贺寿](https://s.weibo.com/weibo?q=%2363%E4%BD%8D%E5%AE%B6%E4%BA%BA%E7%BB%9990%E5%B2%81%E8%80%81%E4%BA%BA%E7%A3%95%E5%A4%B4%E8%B4%BA%E5%AF%BF%23&t=31&band_rank=39&Refer=top) 460025
 1. [阿信说内地演唱会不止一场](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E8%AF%B4%E5%86%85%E5%9C%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E6%AD%A2%E4%B8%80%E5%9C%BA%23&t=31&band_rank=5&Refer=top) 450031
 1. [亲戚串门时还在睡的我](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E6%88%9A%E4%B8%B2%E9%97%A8%E6%97%B6%E8%BF%98%E5%9C%A8%E7%9D%A1%E7%9A%84%E6%88%91%23&t=31&band_rank=12&Refer=top) 432781
+1. [杀猪女屠夫月入3万买房买奔驰](https://s.weibo.com/weibo?q=%23%E6%9D%80%E7%8C%AA%E5%A5%B3%E5%B1%A0%E5%A4%AB%E6%9C%88%E5%85%A53%E4%B8%87%E4%B9%B0%E6%88%BF%E4%B9%B0%E5%A5%94%E9%A9%B0%23&t=31&band_rank=30&Refer=top) 430772
+1. [脱口秀](https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80&t=31&band_rank=34&Refer=top) 430653
+1. [张远说我们没有感情全是红包](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E8%AF%B4%E6%88%91%E4%BB%AC%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85%E5%85%A8%E6%98%AF%E7%BA%A2%E5%8C%85%23&t=31&band_rank=37&Refer=top) 430582
+1. [春晚舞蹈](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E8%88%9E%E8%B9%88&t=31&band_rank=38&Refer=top) 430531
+1. [春晚段子大考](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E6%AE%B5%E5%AD%90%E5%A4%A7%E8%80%83&t=31&band_rank=39&Refer=top) 430503
+1. [嘶哈嘶哈 哦ferferfer](https://s.weibo.com/weibo?q=%E5%98%B6%E5%93%88%E5%98%B6%E5%93%88%20%E5%93%A6ferferfer&t=31&band_rank=41&Refer=top) 430473
 1. [宋祖儿中国娃娃造型](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E4%B8%AD%E5%9B%BD%E5%A8%83%E5%A8%83%E9%80%A0%E5%9E%8B%23&t=31&band_rank=10&Refer=top) 427527
 1. [张艺兴新歌歌词全是吉祥话](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E6%AD%8C%E6%AD%8C%E8%AF%8D%E5%85%A8%E6%98%AF%E5%90%89%E7%A5%A5%E8%AF%9D%23&t=31&band_rank=9&Refer=top) 427032
 1. [丁程鑫宋亚轩严浩翔改编男儿歌](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%94%B9%E7%BC%96%E7%94%B7%E5%84%BF%E6%AD%8C%23&t=31&band_rank=18&Refer=top) 417435
@@ -144,6 +160,7 @@
 1. [最适合大学生出手的年夜饭菜](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E6%89%8B%E7%9A%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%E8%8F%9C%23&t=31&band_rank=7&Refer=top) 412878
 1. [田震宋亚轩时隔7年再同框](https://s.weibo.com/weibo?q=%23%E7%94%B0%E9%9C%87%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%97%B6%E9%9A%947%E5%B9%B4%E5%86%8D%E5%90%8C%E6%A1%86%23&t=31&band_rank=8&Refer=top) 406434
 1. [许嵩说过年就是要团圆和家的感觉](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E8%AF%B4%E8%BF%87%E5%B9%B4%E5%B0%B1%E6%98%AF%E8%A6%81%E5%9B%A2%E5%9C%86%E5%92%8C%E5%AE%B6%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=12&Refer=top) 404935
+1. [春晚戏曲](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%88%8F%E6%9B%B2%23&t=31&band_rank=43&Refer=top) 399895
 1. [Danielle道歉](https://s.weibo.com/weibo?q=%23Danielle%E9%81%93%E6%AD%89%23&t=31&band_rank=11&Refer=top) 398705
 1. [女子25元买福字兔子下面印着虎](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9025%E5%85%83%E4%B9%B0%E7%A6%8F%E5%AD%97%E5%85%94%E5%AD%90%E4%B8%8B%E9%9D%A2%E5%8D%B0%E7%9D%80%E8%99%8E%23&t=31&band_rank=13&Refer=top) 396303
 1. [一次吃了三种主食](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AC%A1%E5%90%83%E4%BA%86%E4%B8%89%E7%A7%8D%E4%B8%BB%E9%A3%9F%23&t=31&band_rank=8&Refer=top) 392700
@@ -165,6 +182,7 @@
 1. [女子回娘家过年24人睡一屋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%A8%98%E5%AE%B6%E8%BF%87%E5%B9%B424%E4%BA%BA%E7%9D%A1%E4%B8%80%E5%B1%8B%23&t=31&band_rank=12&Refer=top) 343659
 1. [张杰说基本上是家里吃完了我再吃](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AF%B4%E5%9F%BA%E6%9C%AC%E4%B8%8A%E6%98%AF%E5%AE%B6%E9%87%8C%E5%90%83%E5%AE%8C%E4%BA%86%E6%88%91%E5%86%8D%E5%90%83%23&t=31&band_rank=15&Refer=top) 342788
 1. [迪丽热巴带着兔朋友送春节祝福](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B8%A6%E7%9D%80%E5%85%94%E6%9C%8B%E5%8F%8B%E9%80%81%E6%98%A5%E8%8A%82%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=16&Refer=top) 340188
+1. [春晚开场](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%BC%80%E5%9C%BA%23&t=31&band_rank=47&Refer=top) 339991
 1. [谁教你这么贴对联的](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E4%BD%A0%E8%BF%99%E4%B9%88%E8%B4%B4%E5%AF%B9%E8%81%94%E7%9A%84%23&t=31&band_rank=19&Refer=top) 339234
 1. [姜广涛](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%B9%BF%E6%B6%9B%23&t=31&band_rank=40&Refer=top) 338147
 1. [过年一定要去男方家吗](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E7%94%B7%E6%96%B9%E5%AE%B6%E5%90%97%23&t=31&band_rank=11&Refer=top) 324457
