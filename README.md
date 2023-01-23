@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-24 03:02:02
+最后更新时间 2023-01-24 04:03:35
 
 1. [炉石传说](https://s.weibo.com/weibo?q=%23%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%23&t=31&band_rank=4&Refer=top) 1054901
 1. [导演付宁去世](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E4%BB%98%E5%AE%81%E5%8E%BB%E4%B8%96%23&t=31&band_rank=10&Refer=top) 1023262
