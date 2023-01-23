@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-24 01:02:30
+最后更新时间 2023-01-24 02:06:35
 
 1. [炉石传说](https://s.weibo.com/weibo?q=%23%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%23&t=31&band_rank=4&Refer=top) 1054901
 1. [导演付宁去世](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E4%BB%98%E5%AE%81%E5%8E%BB%E4%B8%96%23&t=31&band_rank=10&Refer=top) 1023262
@@ -47,9 +47,10 @@
 1. [红豆遥遥冰正式官宣恋情](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%B1%86%E9%81%A5%E9%81%A5%E5%86%B0%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85%23&t=31&band_rank=24&Refer=top) 180711
 1. [刘宇宁个人EP将与五位朋友合作五首歌](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%AA%E4%BA%BAEP%E5%B0%86%E4%B8%8E%E4%BA%94%E4%BD%8D%E6%9C%8B%E5%8F%8B%E5%90%88%E4%BD%9C%E4%BA%94%E9%A6%96%E6%AD%8C%23&t=31&band_rank=25&Refer=top) 170791
 1. [胡歌年度男演员](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%B9%B4%E5%BA%A6%E7%94%B7%E6%BC%94%E5%91%98%23&t=31&band_rank=26&Refer=top) 157791
+1. [40岁男子给8岁小孩磕头拜年](https://s.weibo.com/weibo?q=%2340%E5%B2%81%E7%94%B7%E5%AD%90%E7%BB%998%E5%B2%81%E5%B0%8F%E5%AD%A9%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=45&Refer=top) 145701
 1. [再见守望先锋](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%23&t=31&band_rank=27&Refer=top) 132029
 1. [男子去澡堂搓澡膝盖被搓到反光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E6%BE%A1%E5%A0%82%E6%90%93%E6%BE%A1%E8%86%9D%E7%9B%96%E8%A2%AB%E6%90%93%E5%88%B0%E5%8F%8D%E5%85%89%23&t=31&band_rank=28&Refer=top) 126750
-1. [深海讲了什么故事](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E6%B5%B7%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B%23&t=31&band_rank=24&Refer=top) 112499
+1. [深海讲了什么故事](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E6%B5%B7%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B%23&t=31&band_rank=24&Refer=top) 117276
 1. [张继科跟爸爸的相处方式](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%B7%9F%E7%88%B8%E7%88%B8%E7%9A%84%E7%9B%B8%E5%A4%84%E6%96%B9%E5%BC%8F%23&t=31&band_rank=32&Refer=top) 105973
 1. [九旬爷奶花21万买17个金镯子送晚辈](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%97%AC%E7%88%B7%E5%A5%B6%E8%8A%B121%E4%B8%87%E4%B9%B017%E4%B8%AA%E9%87%91%E9%95%AF%E5%AD%90%E9%80%81%E6%99%9A%E8%BE%88%23&t=31&band_rank=29&Refer=top) 102756
 1. [宋轶在春晚后台给赵今麦送小饼干](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E5%9C%A8%E6%98%A5%E6%99%9A%E5%90%8E%E5%8F%B0%E7%BB%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%80%81%E5%B0%8F%E9%A5%BC%E5%B9%B2%23&t=31&band_rank=37&Refer=top) 100958
@@ -74,7 +75,10 @@
 1. [讨红包一定要找对人](https://s.weibo.com/weibo?q=%23%E8%AE%A8%E7%BA%A2%E5%8C%85%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%BE%E5%AF%B9%E4%BA%BA%23&t=31&band_rank=49&Refer=top) 62325
 1. [外国科学家奶奶说很想看流浪地球2](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A5%B6%E5%A5%B6%E8%AF%B4%E5%BE%88%E6%83%B3%E7%9C%8B%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%23&t=31&band_rank=44&Refer=top) 60359
 1. [过年才能吃到的甜烧白](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E6%89%8D%E8%83%BD%E5%90%83%E5%88%B0%E7%9A%84%E7%94%9C%E7%83%A7%E7%99%BD%23&t=31&band_rank=50&Refer=top) 59806
-1. [40岁男子给8岁小孩磕头拜年](https://s.weibo.com/weibo?q=%2340%E5%B2%81%E7%94%B7%E5%AD%90%E7%BB%998%E5%B2%81%E5%B0%8F%E5%AD%A9%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=45&Refer=top) 59323
+1. [张译口音怪怪的](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%E5%8F%A3%E9%9F%B3%E6%80%AA%E6%80%AA%E7%9A%84&t=31&band_rank=37&Refer=top) 36090
+1. [女子庙里祈福时遇兔子带路](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BA%99%E9%87%8C%E7%A5%88%E7%A6%8F%E6%97%B6%E9%81%87%E5%85%94%E5%AD%90%E5%B8%A6%E8%B7%AF%23&t=31&band_rank=38&Refer=top) 29250
+1. [广智一年的素材都有了](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%99%BA%E4%B8%80%E5%B9%B4%E7%9A%84%E7%B4%A0%E6%9D%90%E9%83%BD%E6%9C%89%E4%BA%86%23&t=31&band_rank=42&Refer=top) 25362
+1. [妈妈这个词只是叫一叫便喉间哽咽](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%BF%99%E4%B8%AA%E8%AF%8D%E5%8F%AA%E6%98%AF%E5%8F%AB%E4%B8%80%E5%8F%AB%E4%BE%BF%E5%96%89%E9%97%B4%E5%93%BD%E5%92%BD%23&t=31&band_rank=49&Refer=top) 20834
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
