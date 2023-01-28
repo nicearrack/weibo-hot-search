@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-01-29 03:01:39
+最后更新时间 2023-01-29 04:02:22
 
 1. [陈书婷假死](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%A6%E5%A9%B7%E5%81%87%E6%AD%BB%23&t=31&band_rank=1&Refer=top) 1523882
 1. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=2&Refer=top) 1432160
@@ -79,8 +79,9 @@
 1. [监管部门回应58元烩菜事件处理进展](https://s.weibo.com/weibo?q=%23%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%9458%E5%85%83%E7%83%A9%E8%8F%9C%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86%E8%BF%9B%E5%B1%95%23&t=31&band_rank=31&Refer=top) 77941
 1. [尾巴超蓬松的狗狗](https://s.weibo.com/weibo?q=%23%E5%B0%BE%E5%B7%B4%E8%B6%85%E8%93%AC%E6%9D%BE%E7%9A%84%E7%8B%97%E7%8B%97%23&t=31&band_rank=50&Refer=top) 70988
 1. [阿凡达2登影史票房榜第四](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%87%A1%E8%BE%BE2%E7%99%BB%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E6%A6%9C%E7%AC%AC%E5%9B%9B%23&t=31&band_rank=36&Refer=top) 67226
+1. [游客称58元一碗的烩菜内没有肉](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B058%E5%85%83%E4%B8%80%E7%A2%97%E7%9A%84%E7%83%A9%E8%8F%9C%E5%86%85%E6%B2%A1%E6%9C%89%E8%82%89%23&t=31&band_rank=50&Refer=top) 52455
 1. [原来MOSS的电话真的能打通](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5MOSS%E7%9A%84%E7%94%B5%E8%AF%9D%E7%9C%9F%E7%9A%84%E8%83%BD%E6%89%93%E9%80%9A%23&t=31&band_rank=44&Refer=top) 27265
-1. [游客称58元一碗的烩菜内没有肉](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B058%E5%85%83%E4%B8%80%E7%A2%97%E7%9A%84%E7%83%A9%E8%8F%9C%E5%86%85%E6%B2%A1%E6%9C%89%E8%82%89%23&t=31&band_rank=50&Refer=top) 22600
+1. [大妈用鞋底暴抽秦桧跪像](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E7%94%A8%E9%9E%8B%E5%BA%95%E6%9A%B4%E6%8A%BD%E7%A7%A6%E6%A1%A7%E8%B7%AA%E5%83%8F%23&t=31&band_rank=44&Refer=top) 18746
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
