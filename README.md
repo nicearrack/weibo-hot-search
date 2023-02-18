@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-02-19 05:02:09
+最后更新时间 2023-02-19 06:02:21
 
 1. [香港大学宣布禁用ChatGPT](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23&t=31&band_rank=1&Refer=top) 1932441
 1. [柯哀](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%93%80&t=31&band_rank=1&Refer=top) 1924888
@@ -77,8 +77,8 @@
 1. [成毅莲花楼红衣吊威亚路透视频](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BA%A2%E8%A1%A3%E5%90%8A%E5%A8%81%E4%BA%9A%E8%B7%AF%E9%80%8F%E8%A7%86%E9%A2%91%23&t=31&band_rank=37&Refer=top) 111049
 1. [何与公主抱沈月](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8E%E5%85%AC%E4%B8%BB%E6%8A%B1%E6%B2%88%E6%9C%88%23&t=31&band_rank=33&Refer=top) 72286
 1. [华晨宇你好星期六新歌直拍](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%96%B0%E6%AD%8C%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=40&Refer=top) 59848
+1. [现在的大学生开学](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%23&t=31&band_rank=24&Refer=top) 53684
 1. [满江红演员呼吁大家关注消防](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B1%9F%E7%BA%A2%E6%BC%94%E5%91%98%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E5%85%B3%E6%B3%A8%E6%B6%88%E9%98%B2%23&t=31&band_rank=21&Refer=top) 43522
-1. [现在的大学生开学](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%23&t=31&band_rank=24&Refer=top) 32948
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
