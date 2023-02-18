@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-02-19 01:02:03
+最后更新时间 2023-02-19 02:05:58
 
 1. [香港大学宣布禁用ChatGPT](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23&t=31&band_rank=1&Refer=top) 1932441
 1. [柯哀](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%93%80&t=31&band_rank=1&Refer=top) 1924888
@@ -32,8 +32,8 @@
 1. [近期又开始发烧是否等于复阳](https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%8F%88%E5%BC%80%E5%A7%8B%E5%8F%91%E7%83%A7%E6%98%AF%E5%90%A6%E7%AD%89%E4%BA%8E%E5%A4%8D%E9%98%B3%23&t=31&band_rank=10&Refer=top) 692558
 1. [无毛猫被前主人纹身打耳环](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%AF%9B%E7%8C%AB%E8%A2%AB%E5%89%8D%E4%B8%BB%E4%BA%BA%E7%BA%B9%E8%BA%AB%E6%89%93%E8%80%B3%E7%8E%AF%23&t=31&band_rank=11&Refer=top) 657749
 1. [iPhone14最高降1600元](https://s.weibo.com/weibo?q=%23iPhone14%E6%9C%80%E9%AB%98%E9%99%8D1600%E5%85%83%23&t=31&band_rank=12&Refer=top) 657356
+1. [美甲最好隔20天左右就卸除](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E6%9C%80%E5%A5%BD%E9%9A%9420%E5%A4%A9%E5%B7%A6%E5%8F%B3%E5%B0%B1%E5%8D%B8%E9%99%A4%23&t=31&band_rank=7&Refer=top) 625697
 1. [众星给黄明昊录制生日祝福VCR](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E7%BB%99%E9%BB%84%E6%98%8E%E6%98%8A%E5%BD%95%E5%88%B6%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8FVCR%23&t=31&band_rank=13&Refer=top) 621610
-1. [美甲最好隔20天左右就卸除](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E6%9C%80%E5%A5%BD%E9%9A%9420%E5%A4%A9%E5%B7%A6%E5%8F%B3%E5%B0%B1%E5%8D%B8%E9%99%A4%23&t=31&band_rank=7&Refer=top) 621567
 1. [姜涩琪不能跳HypeBoy的理由](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%B6%A9%E7%90%AA%E4%B8%8D%E8%83%BD%E8%B7%B3HypeBoy%E7%9A%84%E7%90%86%E7%94%B1%23&t=31&band_rank=14&Refer=top) 564868
 1. [独居后才知道生活常识](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%23&t=31&band_rank=10&Refer=top) 519294
 1. [林家川回应狂飙拍摄地收费](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AE%B6%E5%B7%9D%E5%9B%9E%E5%BA%94%E7%8B%82%E9%A3%99%E6%8B%8D%E6%91%84%E5%9C%B0%E6%94%B6%E8%B4%B9%23&t=31&band_rank=15&Refer=top) 490973
@@ -52,6 +52,7 @@
 1. [李佳琦直播](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%23&t=31&band_rank=26&Refer=top) 261565
 1. [郭俊辰给沈月做奶茶](https://s.weibo.com/weibo?q=%23%E9%83%AD%E4%BF%8A%E8%BE%B0%E7%BB%99%E6%B2%88%E6%9C%88%E5%81%9A%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=27&Refer=top) 255976
 1. [粉色雪媚娘坟头](https://s.weibo.com/weibo?q=%23%E7%B2%89%E8%89%B2%E9%9B%AA%E5%AA%9A%E5%A8%98%E5%9D%9F%E5%A4%B4%23&t=31&band_rank=28&Refer=top) 247571
+1. [男子称买200元螃蟹皮套得占70元](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E4%B9%B0200%E5%85%83%E8%9E%83%E8%9F%B9%E7%9A%AE%E5%A5%97%E5%BE%97%E5%8D%A070%E5%85%83%23&t=31&band_rank=12&Refer=top) 235025
 1. [当你误发消息给妈妈](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E8%AF%AF%E5%8F%91%E6%B6%88%E6%81%AF%E7%BB%99%E5%A6%88%E5%A6%88%23&t=31&band_rank=29&Refer=top) 220472
 1. [美国连巧取都没有只剩豪夺](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%9E%E5%B7%A7%E5%8F%96%E9%83%BD%E6%B2%A1%E6%9C%89%E5%8F%AA%E5%89%A9%E8%B1%AA%E5%A4%BA%23&t=31&band_rank=30&Refer=top) 213679
 1. [新疆男篮或退出本赛季CBA剩余比赛](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%94%B7%E7%AF%AE%E6%88%96%E9%80%80%E5%87%BA%E6%9C%AC%E8%B5%9B%E5%AD%A3CBA%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B%23&t=31&band_rank=31&Refer=top) 198739
@@ -74,6 +75,8 @@
 1. [黄小蕾张天爱澳门disco](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B0%8F%E8%95%BE%E5%BC%A0%E5%A4%A9%E7%88%B1%E6%BE%B3%E9%97%A8disco%23&t=31&band_rank=49&Refer=top) 134858
 1. [女士优先车厢男子坐满女子站立](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A3%AB%E4%BC%98%E5%85%88%E8%BD%A6%E5%8E%A2%E7%94%B7%E5%AD%90%E5%9D%90%E6%BB%A1%E5%A5%B3%E5%AD%90%E7%AB%99%E7%AB%8B%23&t=31&band_rank=50&Refer=top) 127267
 1. [成毅莲花楼红衣吊威亚路透视频](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%8E%B2%E8%8A%B1%E6%A5%BC%E7%BA%A2%E8%A1%A3%E5%90%8A%E5%A8%81%E4%BA%9A%E8%B7%AF%E9%80%8F%E8%A7%86%E9%A2%91%23&t=31&band_rank=37&Refer=top) 111049
+1. [何与公主抱沈月](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8E%E5%85%AC%E4%B8%BB%E6%8A%B1%E6%B2%88%E6%9C%88%23&t=31&band_rank=33&Refer=top) 72286
+1. [华晨宇你好星期六新歌直拍](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%96%B0%E6%AD%8C%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=40&Refer=top) 59848
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
