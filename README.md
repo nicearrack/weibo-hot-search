@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-02-19 02:05:58
+最后更新时间 2023-02-19 03:01:24
 
 1. [香港大学宣布禁用ChatGPT](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23&t=31&band_rank=1&Refer=top) 1932441
 1. [柯哀](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%93%80&t=31&band_rank=1&Refer=top) 1924888
