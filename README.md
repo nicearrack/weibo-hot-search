@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2023-02-28 03:02:11
+最后更新时间 2023-02-28 04:06:07
 
 1. [厉以宁逝世](https://s.weibo.com/weibo?q=%23%E5%8E%89%E4%BB%A5%E5%AE%81%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top) 1217268
 1. [建议常见病不要去三级医院](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B8%B8%E8%A7%81%E7%97%85%E4%B8%8D%E8%A6%81%E5%8E%BB%E4%B8%89%E7%BA%A7%E5%8C%BB%E9%99%A2%23&t=31&band_rank=2&Refer=top) 941782
