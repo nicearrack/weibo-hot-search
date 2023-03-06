@@ -215,6 +215,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23&t=31&band_rank=46&Refer=top",
     "hot": 44035
   },
+  "台湾有观光点1人限购2颗茶叶蛋": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%9C%89%E8%A7%82%E5%85%89%E7%82%B91%E4%BA%BA%E9%99%90%E8%B4%AD2%E9%A2%97%E8%8C%B6%E5%8F%B6%E8%9B%8B%23&t=31&band_rank=12&Refer=top",
+    "hot": 43923
+  },
   "众星现身保你平安首映礼": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E7%8E%B0%E8%BA%AB%E4%BF%9D%E4%BD%A0%E5%B9%B3%E5%AE%89%E9%A6%96%E6%98%A0%E7%A4%BC%23&t=31&band_rank=49&Refer=top",
     "hot": 40651
@@ -226,5 +230,13 @@
   "任嘉伦白西装金丝眼镜": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E7%99%BD%E8%A5%BF%E8%A3%85%E9%87%91%E4%B8%9D%E7%9C%BC%E9%95%9C%23&t=31&band_rank=36&Refer=top",
     "hot": 27815
+  },
+  "u20": {
+    "href": "https://s.weibo.com/weibo?q=u20&t=31&band_rank=27&Refer=top",
+    "hot": 26637
+  },
+  "王鹤棣黑衬衫": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%BB%91%E8%A1%AC%E8%A1%AB%23&t=31&band_rank=36&Refer=top",
+    "hot": 19582
   }
 }
