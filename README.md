@@ -2,6 +2,8 @@
 
 [![license](https://img.shields.io/github/license/Arrackisarookie/weibo-hot-search)](https://github.com/Arrackisarookie/weibo-hot-search/blob/master/LICENSE)
 
+已于2023年4月1日21时停止自动抓取工作流。
+
 灵感来源，ts 实现的微博热搜榜 [weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search)，感谢[迷渡](https://github.com/justjavac)大佬的思路~
 
 微博热搜，记录从 2020-12-07 14:16:43 开始的微博热门搜索。每小时抓取一次数据，按天[归档](./archives)。Python 实现。
